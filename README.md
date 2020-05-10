@@ -13,4 +13,5 @@
 - [7. 斐波那契数列.md](https://github.com/Qiu-Jiaqi/jianzhiOffer/blob/master/斐波那契数列.md)
 - [8. 跳台阶.md](https://github.com/Qiu-Jiaqi/jianzhiOffer/blob/master/跳台阶.md)
 - [9. 变态跳台阶.md](https://github.com/Qiu-Jiaqi/jianzhiOffer/blob/master/变态跳台阶.md)
+- [10. 矩形覆盖.md](https://github.com/Qiu-Jiaqi/jianzhiOffer/blob/master/矩形覆盖.md)
 
