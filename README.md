@@ -14,4 +14,6 @@
 - [8. 跳台阶.md](https://github.com/Qiu-Jiaqi/jianzhiOffer/blob/master/跳台阶.md)
 - [9. 变态跳台阶.md](https://github.com/Qiu-Jiaqi/jianzhiOffer/blob/master/变态跳台阶.md)
 - [10. 矩形覆盖.md](https://github.com/Qiu-Jiaqi/jianzhiOffer/blob/master/矩形覆盖.md)
+- [11. 二进制中1的个数.md](https://github.com/Qiu-Jiaqi/jianzhiOffer/blob/master/二进制中1的个数.md)
+- [12. 数值的整数次方.md](https://github.com/Qiu-Jiaqi/jianzhiOffer/blob/master/数值的整数次方.md)
 
