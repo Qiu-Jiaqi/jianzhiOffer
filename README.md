@@ -17,4 +17,5 @@
 - [11. 二进制中1的个数.md](https://github.com/Qiu-Jiaqi/jianzhiOffer/blob/master/二进制中1的个数.md)
 - [12. 数值的整数次方.md](https://github.com/Qiu-Jiaqi/jianzhiOffer/blob/master/数值的整数次方.md)
 - [13. 调整数组顺序使奇数位于偶数前面.md](https://github.com/Qiu-Jiaqi/jianzhiOffer/blob/master/调整数组顺序使奇数位于偶数前面.md)
+- [14. 链表中倒数第k个结点.md](https://github.com/Qiu-Jiaqi/jianzhiOffer/blob/master/链表中倒数第k个结点.md)
 
