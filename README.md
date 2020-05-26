@@ -24,4 +24,5 @@
 - [18. 二叉树的镜像.md](https://github.com/Qiu-Jiaqi/jianzhiOffer/blob/master/二叉树的镜像.md)
 - [19. 顺时针打印矩阵.md](https://github.com/Qiu-Jiaqi/jianzhiOffer/blob/master/顺时针打印矩阵.md)
 - [20. 包含min函数的栈.md](https://github.com/Qiu-Jiaqi/jianzhiOffer/blob/master/包含min函数的栈.md)
+- [21. 栈的压入、弹出序列.md](https://github.com/Qiu-Jiaqi/jianzhiOffer/blob/master/栈的压入、弹出序列.md)
 
