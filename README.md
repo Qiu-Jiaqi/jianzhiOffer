@@ -28,4 +28,5 @@
 - [22. 从上往下打印出二叉树.md](https://github.com/Qiu-Jiaqi/jianzhiOffer/blob/master/从上往下打印出二叉树.md)
 - [23. 二叉搜索树的后序遍历序列.md](https://github.com/Qiu-Jiaqi/jianzhiOffer/blob/master/二叉搜索树的后序遍历序列.md)
 - [24. 二叉树中和为某一值的路径.md](https://github.com/Qiu-Jiaqi/jianzhiOffer/blob/master/二叉树中和为某一值的路径.md)
+- [25. 复杂链表的复制.md](https://github.com/Qiu-Jiaqi/jianzhiOffer/blob/master/复杂链表的复制.md)
 
